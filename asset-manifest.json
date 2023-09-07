@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kitchen-master/static/css/main.39002e53.css",
+    "main.js": "/kitchen-master/static/js/main.c8ba411a.js",
+    "static/js/787.de1bc1e7.chunk.js": "/kitchen-master/static/js/787.de1bc1e7.chunk.js",
+    "index.html": "/kitchen-master/index.html",
+    "main.39002e53.css.map": "/kitchen-master/static/css/main.39002e53.css.map",
+    "main.c8ba411a.js.map": "/kitchen-master/static/js/main.c8ba411a.js.map",
+    "787.de1bc1e7.chunk.js.map": "/kitchen-master/static/js/787.de1bc1e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39002e53.css",
+    "static/js/main.c8ba411a.js"
+  ]
+}
